@@ -16,3 +16,11 @@ test/tmp
 test/version_tmp
 tmp
 .idea/
+
+ext/*.o
+ext/*.log
+ext/*.so
+ext/*.bundle
+ext/Makefile
+lib/*.so
+lib/*.bundle
